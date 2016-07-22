@@ -1,0 +1,9 @@
+body {
+  padding-top: 15px;
+  padding-left: 65px;
+
+.navbar-inverse .navbar-nav
+	li a {
+	color: #2ACF57
+	}
+}
